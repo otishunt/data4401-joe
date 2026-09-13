@@ -1,3 +1,4 @@
 .DS_Store
-iowa_liquor_sales_2026_1263_rows/
+iowa_liquor_sales_2026_1263_rows*
 *.parquet
+*.csv
