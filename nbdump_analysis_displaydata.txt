@@ -1,0 +1,8 @@
+--- CELL 13 [display_data] ---
+<pandas.io.formats.style.Styler at 0x7c4e2430ef90>
+
+--- CELL 14 [display_data] ---
+<Figure size 2200x900 with 10 Axes>
+
+--- CELL 17 [display_data] ---
+<Figure size 1300x700 with 1 Axes>
