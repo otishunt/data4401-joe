@@ -61,7 +61,11 @@ included — running notebooks 2 and 3 in order regenerates it.
 All three notebooks use plain relative file paths and expect to be run from
 this folder (or with the data files copied alongside them).
 
-## Environment
+# DEAD Notebook
+
+All analysis for DEAD is located within the `DEAD_Final_Analysis.ipynb` file. This file uses the `liquor_2022_2026.parquet` file built from the notebooks for Booze 'R Us. DEAD analysis also uses data from the 2020 U.S. Census, which can be obtained through the U.S. Census API.
+
+# Environment
 
 Python 3, with:
 
@@ -76,7 +80,8 @@ seaborn
 jinja2          # required for the styled tables in notebook 3
 ```
 
-## Generative AI disclosure
+
+# Generative AI disclosure
 
 Generative AI (Claude Code) was used in assisting writing code and
 debugging throughout this project.
